@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.main-container {
+  background-color: white;
+  padding: 30px;
+  text-align: center;
+}
+.bg-container {
+  background-color: #2b2c49;
+  text-align: center;
+  padding: 40px;
+}
+.heading {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+.button {
+  padding: 20px;
+  background-color: white;
+  font-family: 'Roboto';
+  color: black;
+}
